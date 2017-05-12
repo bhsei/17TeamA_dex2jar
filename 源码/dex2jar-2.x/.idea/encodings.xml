@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d2j-base-cmd" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d2j-jasmin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d2j-smali" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex-ir" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex-reader" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex-reader-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex-tools" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex-translator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dex-writer" charset="UTF-8" />
+  </component>
+</project>

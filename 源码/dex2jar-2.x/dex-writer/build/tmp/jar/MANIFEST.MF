@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: dex-writer
+Implementation-Version: 2.1-SNAPSHOT
+Build-Time: 2017-03-14T09:36:16+0800
+Revision: HEAD
+Build-Number: -1
+

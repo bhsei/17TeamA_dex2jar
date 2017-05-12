@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-base-cmd/d2j-base-cmd.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-base-cmd/d2j-base-cmd.iml" group="d2j-base-cmd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-base-cmd/d2j-base-cmd_main.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-base-cmd/d2j-base-cmd_main.iml" group="d2j-base-cmd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-base-cmd/d2j-base-cmd_test.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-base-cmd/d2j-base-cmd_test.iml" group="d2j-base-cmd" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-j6/d2j-j6.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-j6/d2j-j6.iml" group="d2j-j6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-j6/d2j-j6_main.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-j6/d2j-j6_main.iml" group="d2j-j6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-j6/d2j-j6_test.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-j6/d2j-j6_test.iml" group="d2j-j6" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-jasmin/d2j-jasmin.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-jasmin/d2j-jasmin.iml" group="d2j-jasmin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-jasmin/d2j-jasmin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-jasmin/d2j-jasmin_main.iml" group="d2j-jasmin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-jasmin/d2j-jasmin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-jasmin/d2j-jasmin_test.iml" group="d2j-jasmin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-smali/d2j-smali.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-smali/d2j-smali.iml" group="d2j-smali" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-smali/d2j-smali_main.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-smali/d2j-smali_main.iml" group="d2j-smali" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/d2j-smali/d2j-smali_test.iml" filepath="$PROJECT_DIR$/.idea/modules/d2j-smali/d2j-smali_test.iml" group="d2j-smali" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-ir/dex-ir.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-ir/dex-ir.iml" group="dex-ir" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-ir/dex-ir_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-ir/dex-ir_main.iml" group="dex-ir" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-ir/dex-ir_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-ir/dex-ir_test.iml" group="dex-ir" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-reader/dex-reader.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-reader/dex-reader.iml" group="dex-reader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-reader-api/dex-reader-api.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-reader-api/dex-reader-api.iml" group="dex-reader-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-reader-api/dex-reader-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-reader-api/dex-reader-api_main.iml" group="dex-reader-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-reader-api/dex-reader-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-reader-api/dex-reader-api_test.iml" group="dex-reader-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-reader/dex-reader_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-reader/dex-reader_main.iml" group="dex-reader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-reader/dex-reader_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-reader/dex-reader_test.iml" group="dex-reader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-tools/dex-tools.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-tools/dex-tools.iml" group="dex-tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-tools/dex-tools_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-tools/dex-tools_main.iml" group="dex-tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-tools/dex-tools_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-tools/dex-tools_test.iml" group="dex-tools" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-translator/dex-translator.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-translator/dex-translator.iml" group="dex-translator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-translator/dex-translator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-translator/dex-translator_main.iml" group="dex-translator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-translator/dex-translator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-translator/dex-translator_test.iml" group="dex-translator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-writer/dex-writer.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-writer/dex-writer.iml" group="dex-writer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-writer/dex-writer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-writer/dex-writer_main.iml" group="dex-writer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex-writer/dex-writer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dex-writer/dex-writer_test.iml" group="dex-writer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dex2jar.iml" filepath="$PROJECT_DIR$/.idea/modules/dex2jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2j-j6/src/main/main.iml" filepath="$PROJECT_DIR$/d2j-j6/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-translator/src/main/main1.iml" filepath="$PROJECT_DIR$/dex-translator/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2j-base-cmd/src/main/main2.iml" filepath="$PROJECT_DIR$/d2j-base-cmd/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-writer/src/main/main3.iml" filepath="$PROJECT_DIR$/dex-writer/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-ir/src/main/main4.iml" filepath="$PROJECT_DIR$/dex-ir/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2j-jasmin/src/main/main5.iml" filepath="$PROJECT_DIR$/d2j-jasmin/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2j-smali/src/main/main6.iml" filepath="$PROJECT_DIR$/d2j-smali/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-reader-api/src/main/main7.iml" filepath="$PROJECT_DIR$/dex-reader-api/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-reader/src/main/main8.iml" filepath="$PROJECT_DIR$/dex-reader/src/main/main8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-tools/src/main/main9.iml" filepath="$PROJECT_DIR$/dex-tools/src/main/main9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-tools/src/test/test.iml" filepath="$PROJECT_DIR$/dex-tools/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-writer/src/test/test1.iml" filepath="$PROJECT_DIR$/dex-writer/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-ir/src/test/test2.iml" filepath="$PROJECT_DIR$/dex-ir/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-translator/src/test/test3.iml" filepath="$PROJECT_DIR$/dex-translator/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dex-reader/src/test/test4.iml" filepath="$PROJECT_DIR$/dex-reader/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2j-smali/src/test/test5.iml" filepath="$PROJECT_DIR$/d2j-smali/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d2j-jasmin/src/test/test6.iml" filepath="$PROJECT_DIR$/d2j-jasmin/src/test/test6.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":d2j-jasmin:main" external.linked.project.path="$MODULE_DIR$/../../../d2j-jasmin" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.googlecode.d2j" external.system.module.type="sourceSet" external.system.module.version="2.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../d2j-jasmin/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../d2j-jasmin/build/generated-src/antlr/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-jasmin/build/generated-src/antlr/main" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../d2j-jasmin/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-jasmin/src/main/antlr3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-jasmin/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-jasmin/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr:3.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-debug-all:5.0.3" level="project" />
+    <orderEntry type="module" module-name="d2j-base-cmd_main" />
+    <orderEntry type="library" name="Gradle: org.antlr:ST4:4.0.8" level="project" />
+  </component>
+</module>

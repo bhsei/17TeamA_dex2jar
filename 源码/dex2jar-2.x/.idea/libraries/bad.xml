@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bad">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dex-reader/src/test/resources/bad.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

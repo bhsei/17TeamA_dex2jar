@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="d2j-base-cmd" target="1.7" />
+      <module name="d2j-base-cmd_main" target="1.7" />
+      <module name="d2j-base-cmd_test" target="1.7" />
+      <module name="d2j-j6_main" target="1.7" />
+      <module name="d2j-j6_test" target="1.7" />
+      <module name="d2j-jasmin" target="1.7" />
+      <module name="d2j-jasmin_main" target="1.7" />
+      <module name="d2j-jasmin_test" target="1.7" />
+      <module name="d2j-smali" target="1.7" />
+      <module name="d2j-smali_main" target="1.7" />
+      <module name="d2j-smali_test" target="1.7" />
+      <module name="dex-ir" target="1.7" />
+      <module name="dex-ir_main" target="1.7" />
+      <module name="dex-ir_test" target="1.7" />
+      <module name="dex-reader" target="1.7" />
+      <module name="dex-reader-api" target="1.7" />
+      <module name="dex-reader-api_main" target="1.7" />
+      <module name="dex-reader-api_test" target="1.7" />
+      <module name="dex-reader_main" target="1.7" />
+      <module name="dex-reader_test" target="1.7" />
+      <module name="dex-tools" target="1.7" />
+      <module name="dex-tools_main" target="1.7" />
+      <module name="dex-tools_test" target="1.7" />
+      <module name="dex-translator" target="1.7" />
+      <module name="dex-translator_main" target="1.7" />
+      <module name="dex-translator_test" target="1.7" />
+      <module name="dex-writer" target="1.7" />
+      <module name="dex-writer_main" target="1.7" />
+      <module name="dex-writer_test" target="1.7" />
+      <module name="dex2jar" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

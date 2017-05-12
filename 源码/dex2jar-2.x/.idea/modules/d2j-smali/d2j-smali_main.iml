@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":d2j-smali:main" external.linked.project.path="$MODULE_DIR$/../../../d2j-smali" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.googlecode.d2j" external.system.module.type="sourceSet" external.system.module.version="2.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../d2j-smali/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../d2j-smali/build/generated-src/antlr/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-smali/build/generated-src/antlr/main" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../d2j-smali/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-smali/src/main/antlr4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-smali/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../d2j-smali/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr4:4.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr4-runtime:4.5" level="project" />
+    <orderEntry type="module" module-name="dex-reader_main" />
+    <orderEntry type="module" module-name="d2j-base-cmd_main" />
+    <orderEntry type="module" module-name="dex-writer_main" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr-runtime:3.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:ST4:4.0.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.abego.treelayout:org.abego.treelayout.core:1.0.1" level="project" />
+    <orderEntry type="module" module-name="dex-reader-api_main" />
+  </component>
+</module>

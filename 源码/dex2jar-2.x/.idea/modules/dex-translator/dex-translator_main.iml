@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":dex-translator:main" external.linked.project.path="$MODULE_DIR$/../../../dex-translator" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.googlecode.d2j" external.system.module.type="sourceSet" external.system.module.version="2.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../dex-translator/build/classes/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../dex-translator/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../dex-translator/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../dex-translator/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="dex-reader_main" />
+    <orderEntry type="module" module-name="dex-ir_main" />
+    <orderEntry type="module" module-name="d2j-base-cmd_main" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-debug-all:5.0.3" level="project" />
+    <orderEntry type="module" module-name="dex-reader-api_main" />
+  </component>
+</module>
